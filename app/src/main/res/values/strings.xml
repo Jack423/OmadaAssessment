@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Omada Assessment</string>
+    <!--  https://live.staticflickr.com/{server-id}/{id}_{secret}_{size-suffix}.jpg  -->
+    <string name="flickr_template">https://live.staticflickr.com/%1$s/%2$s_%3$s_%4$s.jpg</string>
+    <string name="error_loading_images">An error occurred while loading the images. Please try again</string>
+    <string name="image_details">Image Details</string>
+</resources>
